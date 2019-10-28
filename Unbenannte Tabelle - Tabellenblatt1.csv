@@ -1,14 +1,9 @@
 from,to,weight
-"Luke
-",Ben,3
-"Luke
-",Han,3
-"Luke
-",Imperator,1
-"Luke
-",Leia,3
-"Luke
-",Darth Vader,2
+Luke,Ben,3
+Luke,Han,3
+Luke,Imperator,1
+Luke,Leia,3
+Luke,Darth Vader,2
 Han,Chewie,3
 Han,Jabba,1
 Jabba,Chewie,1
